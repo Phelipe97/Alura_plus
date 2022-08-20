@@ -74,3 +74,10 @@ border:2px solid var(--branco-principal);
 .descrição__texto{
     color: var(--cinza-secundario);
 }
+.secundario__botao{
+    display: inline-block;
+    margin-top: 1em;
+}
+.container__descrição{
+    padding: 2em;
+}
